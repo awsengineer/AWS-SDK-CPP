@@ -1,5 +1,5 @@
 {
-  "AWSTemplateFormatVersion": "2010-09-09",
+ "AWSTemplateFormatVersion": "2010-09-09",
   "Description": "This template creates a playground to with AWS SDK for C++",
   "Parameters": {
     "ec2ordocker": {
