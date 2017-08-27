@@ -5,7 +5,7 @@
     "ec2ordocker": {
       "Description": "Please select which stack you want to be created for you",
       "Type": "String",
-      "Default": "AWS SDK for  C++ in an EC2 instance.",
+      "Default": "AWS SDK for C++ in an EC2 instance.",
       "AllowedValues": [
         "AWS SDK for C++ in an EC2 instance.",
         "AWS SDK for C++ in an EC2 instance and also a Docker container.",
