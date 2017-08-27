@@ -1,6 +1,6 @@
 {
   "AWSTemplateFormatVersion": "2010-09-09",
-  "Description": "This template creates a playground to with AWS SDK for C++",
+  "Description": "This  template creates a playground to with AWS SDK for C++",
   "Parameters": {
     "ec2ordocker": {
       "Description": "Please select which stack you want to be created for you",
